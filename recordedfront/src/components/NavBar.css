@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #a2ded0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand h2 {
+    margin: 0;
+    color: #017091;
+}
+
+.navbar-menu {
+    display: flex;
+    gap: 20px;
+}

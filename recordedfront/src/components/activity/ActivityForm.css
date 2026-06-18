@@ -1,0 +1,17 @@
+.activity-form {
+    justify-content:space-evenly;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px 0;
+}
+.activity-form button{
+    margin-top: 10px;
+    cursor: pointer;
+    background-color:rgb(179, 230, 235);
+}
+.activity-form textarea {
+    width: 30%;
+    height: 10%;
+    margin: 10px;
+}
